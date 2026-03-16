@@ -1,0 +1,8 @@
+requests
+psutil
+PyJWT
+protobuf
+google
+cfonts
+pyTelegramBotAPI
+urllib3
